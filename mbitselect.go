@@ -10,7 +10,7 @@
 // Flags:
 //
 //	fallback	[microbit|microbit-v2]	the microbit target to fall back to if one cannot be detected.
-//	silent  	[false|true]          	whether to write logging output to stderr.
+//	verbose  	[false|true]          	whether to write additional logging output to stderr.
 //
 // Examples:
 //
